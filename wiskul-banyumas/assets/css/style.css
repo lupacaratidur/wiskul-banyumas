@@ -602,6 +602,10 @@ ul.footer_social li a i:hover {
 }
 
 .home-section p{
+	color: #fff;
+}
+
+.home-section p{
 	font-size: 18px;
 	line-height: 28px;
 	font-weight: 400;
